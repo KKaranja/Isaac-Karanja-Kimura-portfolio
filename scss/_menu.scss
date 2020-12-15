@@ -109,6 +109,6 @@
 
 @for $i from 1 through 4 {
   .menu-nav__items:nth-child(#{$i}) {
-    transition-delay: ($i * 0.2s) + 0.15s;
+    transition-delay: ($i * 0.1s) + 0.15s;
   }
 }
