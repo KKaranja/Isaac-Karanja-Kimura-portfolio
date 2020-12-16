@@ -30,6 +30,10 @@
   font-weight: 700;
 }
 
+.home__my--skill {
+  color: #ff652f;
+}
+
 .menu-btn {
   position: absolute;
   z-index: 1;
