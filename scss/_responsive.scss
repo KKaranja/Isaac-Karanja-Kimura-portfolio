@@ -54,10 +54,8 @@
   }
 }
 
-
-@include media-xl{
-    .projects__bio-image {
-        height: 50vh;
-        
-    }
+@include media-xl {
+  .projects__bio-image {
+    height: 50vh;
+  }
 }
