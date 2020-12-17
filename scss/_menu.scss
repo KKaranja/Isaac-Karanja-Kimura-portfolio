@@ -90,6 +90,7 @@
 
       &.active > a {
         color: $secondary-color;
+        // border-bottom: 2px solid #fff;
       }
     }
     &__link {
